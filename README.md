@@ -1,4 +1,4 @@
 Head First Servlets AND JSP
 =============
 
--2 chapter. [Web App Architecture: high-level overview.] ()
+-3 chapter. [Mini MVC Tutorial: hands-on MVC.] ()
